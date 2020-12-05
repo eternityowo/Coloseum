@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89cebe30-d94e-4024-86a0-cefe7cc89dcb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Services/PoolsObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Extensions/EntityExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/EcsComponent1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/MoveInputSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/Events/InputMoveEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Controller/Init/PlayerInitSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Controller/InputInitSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/EcsRunSystem1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/ViewObjectComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.leopotam.ecs@24b0fffb48/src/EcsSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/GameConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Components/Requests/CreateViewRequest.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/EcsComponent1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/EcsRunSystem1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Pooling/PoolObjectExt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Pooling/PoolObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Pooling/PoolContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Pooling/FastStack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Extensions/EntityExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ViewModels/ViewObjectUnity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ViewModels/IViewObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/ViewObjectComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/MoveComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Services/PoolsObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/Controller/Init/PlayerInitSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ViewModel/ViewObjectUnity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/Requests/CreateViewRequest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Extensions/Systems/ViewCreate/ViewCreateSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/MoveExecuteSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/GameConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EcsStartup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/Events/InputMoveEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/Controller/InputInitSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/MoveInputSystem.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lDENFEp14F3XU38diLdJv1yMey" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="14748">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="14748" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89cebe30-d94e-4024-86a0-cefe7cc89dcb" name="Default Changelist" comment="" />
+      <created>1607123225498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607123225498</updated>
+      <workItem from="1607123238664" duration="2704000" />
+      <workItem from="1607161132580" duration="1052000" />
+      <workItem from="1607183170758" duration="5693000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="467" height="464" key="DebuggerActiveHint" timestamp="1607191759901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="467" height="464" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1607191759901" />
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1607191578738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607191578738" />
+    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1607191578738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607191578738" />
+    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1607191578738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607191578738" />
+    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1607191578738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607191578738" />
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1607191591929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607191591929" />
+    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1607191591929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607191591929" />
+    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1607191591929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607191591929" />
+    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1607191591929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607191591929" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607190771612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607190771612" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Systems/MoveInputSystem.cs</url>
+          <line>44</line>
+          <properties documentPath="C:\Users\OwO\source\unity\Coloseum\Assets\Scripts\Systems\MoveInputSystem.cs" initialLine="46">
+            <startOffsets>
+              <option value="1562" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1583" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Systems/MoveInputSystem.cs</url>
+          <line>40</line>
+          <properties documentPath="C:\Users\OwO\source\unity\Coloseum\Assets\Scripts\Systems\MoveInputSystem.cs" initialLine="40">
+            <startOffsets>
+              <option value="1439" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1484" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

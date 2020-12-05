@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\OwO\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\OwO\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Coloseum.797146934.00" t="ExcludeRecursive" />
+    <e p="C:\Users\OwO\source\unity\Coloseum" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="InputMap.cs" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="Pooling" t="Include">
+            <e p="FastStack.cs" t="Include" />
+            <e p="PoolContainer.cs" t="Include" />
+            <e p="PoolObject.cs" t="Include" />
+            <e p="PoolObjectExt.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Components" t="Include">
+            <e p="EcsComponent1.cs" t="Include" />
+            <e p="Events" t="Include">
+              <e p="InputMoveEvent.cs" t="Include" />
+            </e>
+            <e p="MoveComponent.cs" t="Include" />
+            <e p="Requests" t="Include">
+              <e p="CreateViewRequest.cs" t="Include" />
+            </e>
+            <e p="ViewObjectComponent.cs" t="Include" />
+          </e>
+          <e p="Data" t="Include">
+            <e p="GameConfiguration.cs" t="Include" />
+            <e p="GameContext.cs" t="Include" />
+            <e p="SceneData.cs" t="Include" />
+          </e>
+          <e p="EcsStartup.cs" t="Include" />
+          <e p="Extensions" t="Include">
+            <e p="Blueprints" t="Include">
+              <e p="Blueprint.cs" t="Include" />
+              <e p="BlueprintRefComponent.cs" t="Include" />
+            </e>
+            <e p="Components" t="Include">
+              <e p="ContainerComponents.cs" t="Include" />
+              <e p="WrapperUnityObjectComponent.cs" t="Include" />
+            </e>
+            <e p="EntityExtension.cs" t="Include" />
+            <e p="ListExtension.cs" t="Include" />
+            <e p="Systems" t="Include">
+              <e p="ViewCreate" t="Include">
+                <e p="IsViewCreatedEvent.cs" t="Include" />
+                <e p="ViewCreateSystem.cs" t="Include" />
+              </e>
+            </e>
+            <e p="UnityComponent" t="Include">
+              <e p="UnityComponentExtension.cs" t="Include" />
+            </e>
+            <e p="UnityComponents" t="Include">
+              <e p="EcsUnityNotifierBase.cs" t="Include" />
+              <e p="EcsUnityProvider.cs" t="Include" />
+              <e p="IEcsUnityProvider.cs" t="Include" />
+            </e>
+            <e p="WorldExtension.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="PoolsObject.cs" t="Include" />
+          </e>
+          <e p="SimpleCameraController.cs" t="Include" />
+          <e p="Systems" t="Include">
+            <e p="Controller" t="Include">
+              <e p="Init" t="Include">
+                <e p="PlayerInitSystem.cs" t="Include" />
+              </e>
+              <e p="InputInitSystem.cs" t="Include" />
+            </e>
+            <e p="EcsRunSystem1.cs" t="Include" />
+            <e p="MoveExecuteSystem.cs" t="Include" />
+            <e p="MoveInputSystem.cs" t="Include" />
+          </e>
+          <e p="ViewModel" t="Include">
+            <e p="IViewObject.cs" t="Include" />
+            <e p="ViewObjectUnity.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Coloseum.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
